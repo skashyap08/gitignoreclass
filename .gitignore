@@ -5,3 +5,7 @@ folder/
 
 
 folder/
+*.log
+*.pyc
+*.env
+*.swp
